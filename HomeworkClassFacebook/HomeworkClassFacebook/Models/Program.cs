@@ -6,7 +6,6 @@ namespace HomeworkClassFacebook
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

@@ -62,7 +62,7 @@ namespace ClassesHomework.Models
         }
 
 
-        public void GetDetailedInfo()
+        public virtual void GetDetailedInfo()
         {
             Console.Write("Yanacaq deposunun olcusunu qeyd edin: ");
             FuelTankSize = Convert.ToInt32(Console.ReadLine());

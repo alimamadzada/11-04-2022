@@ -9,7 +9,7 @@ namespace ClassesHomework.Models
         public Car()
         {
         }
-        
+
 
         public bool IsOn;
 
@@ -23,7 +23,7 @@ namespace ClassesHomework.Models
         public bool TurnOff()
         {
             this.IsOn = false;
-
+            Console.WriteLine("Mashin gede bilmez");
             return this.IsOn;
         }
         public void Go(int Distance)
@@ -31,23 +31,29 @@ namespace ClassesHomework.Models
             GetDetailedInfo();
             if (TurnOn())
             {
-                if (FuelUsedPerKm > 0 && Distance <= FuelTankSize / FuelUsedPerKm)
+                if (Distance <= FuelTankSize / FuelUsedPerKm)
                 {
 
                     Console.WriteLine(Distance + " KM mesafe qet olundu");
-                    Console.WriteLine(  );
-                    Console.WriteLine(FuelTankSize / FuelUsedPerKm + " KM mesafe gede biler");
+                    Console.WriteLine();
+                    Console.WriteLine((FuelTankSize / FuelUsedPerKm) - Distance + " KM Elave mesafe gede biler");
                 }
                 else
                     Console.WriteLine("Kifayet qedder yanacaq yoxdur");
             }
-            else if (TurnOff())
+            else if (IsOn == false)
                 Console.WriteLine("Mashin gede bilmez");
         }
 
         public Car(string Model, string Make, string ProductionYear) : base(Model, Make, ProductionYear)
         {
 
+        }
+
+        public override void GetDetailedInfo()
+        {
+            base.GetDetailedInfo();
+            Console.WriteLine(FuelAmount);
         }
 
     }
