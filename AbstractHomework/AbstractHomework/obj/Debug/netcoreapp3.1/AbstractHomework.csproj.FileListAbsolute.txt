@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.exe
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.deps.json
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.runtimeconfig.json
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.dll
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\bin\Debug\netcoreapp3.1\AbstractHomework.pdb
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.dll
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.pdb
+C:\Users\Asus\source\repos\AbstractHomework\AbstractHomework\obj\Debug\netcoreapp3.1\AbstractHomework.genruntimeconfig.cache
