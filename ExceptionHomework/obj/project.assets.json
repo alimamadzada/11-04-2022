@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\StaticHomework\\StaticHomework\\StaticHomework.csproj",
-      "projectName": "StaticHomework",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\StaticHomework\\StaticHomework\\StaticHomework.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ExceptionHomework\\ExceptionHomework\\ExceptionHomework.csproj",
+      "projectName": "ExceptionHomework",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\ExceptionHomework\\ExceptionHomework\\ExceptionHomework.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\StaticHomework\\StaticHomework\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\ExceptionHomework\\ExceptionHomework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
