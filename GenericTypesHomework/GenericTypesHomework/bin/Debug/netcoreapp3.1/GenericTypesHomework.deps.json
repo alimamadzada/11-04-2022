@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "UpDownCastingHomework/1.0.0": {
+      "GenericTypesHomework/1.0.0": {
         "runtime": {
-          "UpDownCastingHomework.dll": {}
+          "GenericTypesHomework.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "UpDownCastingHomework/1.0.0": {
+    "GenericTypesHomework/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

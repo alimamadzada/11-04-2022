@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\UpDownCastingHomework\\UpDownCastingHomework\\UpDownCastingHomework.csproj",
-      "projectName": "UpDownCastingHomework",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\UpDownCastingHomework\\UpDownCastingHomework\\UpDownCastingHomework.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\GenericTypesHomework\\GenericTypesHomework\\GenericTypesHomework.csproj",
+      "projectName": "GenericTypesHomework",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\GenericTypesHomework\\GenericTypesHomework\\GenericTypesHomework.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\UpDownCastingHomework\\UpDownCastingHomework\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\GenericTypesHomework\\GenericTypesHomework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
