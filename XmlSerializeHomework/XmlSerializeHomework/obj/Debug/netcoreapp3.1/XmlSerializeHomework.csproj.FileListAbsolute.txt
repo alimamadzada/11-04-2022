@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.exe
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.deps.json
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.runtimeconfig.json
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.dll
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\XmlSerializeHomework.pdb
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.AssemblyInfo.cs
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.csproj.CopyComplete
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.dll
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.pdb
+C:\Users\Asus\source\repos\XmlSerializeHomework\XmlSerializeHomework\obj\Debug\netcoreapp3.1\XmlSerializeHomework.genruntimeconfig.cache

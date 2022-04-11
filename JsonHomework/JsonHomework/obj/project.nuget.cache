@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6oN9qwms5Lh6aRmv8ewifhWN0IMBFQtgBtjZeciEogeVUyIaBPTw7QtkA6XGBGa7Y+MAMAAzjq/y0MomenTLFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\JsonHomework\\JsonHomework\\JsonHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.exe
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.deps.json
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.runtimeconfig.json
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.dll
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\JsonHomework.pdb
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.AssemblyInfo.cs
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.dll
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.pdb
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.genruntimeconfig.cache
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\JsonHomework\JsonHomework\obj\Debug\netcoreapp3.1\JsonHomework.csproj.CopyComplete
